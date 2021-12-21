@@ -18,5 +18,5 @@
 go.work
 
 # Build directory
-build/
+build/*
 
